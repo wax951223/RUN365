@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">RUN365</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="default_info_title" translatable="false">Default Location</string>
+    <string name="map_frag_cont_desc" translatable="false">Sample map view</string>
+    <string name="title_activity_history" translatable="false">Historical Activities</string>
+    <string name="startrunningbuttonText" translatable="false">▶</string>
+    <string name="historybuttonText" translatable="false">HISTORY</string>
+    <string name="stoprunningbuttonText" translatable="false">STOP</string>
+    <string name="distanceTextView" translatable="false">Distance</string>
+    <string name="timeTextView" translatable="false">Time</string>
+    <string name="avgPaceTextView" translatable="false">Pace</string>
+    <string name="dateDetailTV" translatable="false">Date</string>
+    <string name="startrunning">startrunning</string>
+    <string name="history">history</string>
+    <string name="permissionerror">permissionerror</string>
+    <string name="please_give_the_device_s_location_permission_to_the_app">Please Give the Device\'s Location Permission to the App</string>
+</resources>
